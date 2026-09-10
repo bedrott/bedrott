@@ -19,4 +19,4 @@ Linux & Systems Enthusiast focused on low-level concepts, system customization, 
 
 ---
 
-🔗 **Portfolio / Site:** [bedrott.github.io](https://bedrott.github.io)<!--
+🔗 **Portfolio / Site:** [bedrott.github.io](https://bedrott.github.io)
