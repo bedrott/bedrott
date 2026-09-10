@@ -1,4 +1,6 @@
 <img width="1920" height="500" alt="034b62cdfce7-3900092754" src="https://github.com/user-attachments/assets/fbca0529-7ac7-4dd0-b7df-2c150d019dc1" />
+![CachyOS](https://img.shields.io/badge/CachyOS-008080?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-5865F2?style=for-the-badge&logo=lua&logoColor=white)
 # Hi, I'm Bedrott 👋
 
 Linux & Systems Enthusiast focused on low-level concepts, system customization, and hardware notes.
