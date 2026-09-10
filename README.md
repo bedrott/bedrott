@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Bedrott 👋
 
-<!--
-**bedrott/bedrott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux & Systems Enthusiast focused on low-level concepts, system customization, and hardware notes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Environment
+
+* **Operating Systems:** CachyOS, Arch Linux, Linux From Scratch (LFS)
+* **Window Managers & DEs:** Hyprland, LXQt, Cinnamon, Xfce
+* **Tools & Environment:** Kitty, Shell Scripting, Git, Neovim
+
+---
+
+### 📌 Core Repositories
+
+* **[dotfiles](https://github.com/bedrott/dotfiles):** Personal configuration files, scripts, and Hyprland setup.
+* **[docs](https://github.com/bedrott/docs):** Central repository for technical guides, hardware notes, and documentation.
+
+---
+
+🔗 **Portfolio / Site:** [bedrott.github.io](https://bedrott.github.io)<!--
