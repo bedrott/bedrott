@@ -6,6 +6,8 @@ Systems enthusiast working on Linux configuration, hardware documentation, and e
 # Repositories:
 * **[dotfiles](https://github.com/bedrott/dotfiles):** Personal configuration files, scripts, and Hyprland setup.
 * **[docs](https://github.com/bedrott/docs):** Central repository for technical guides, hardware notes, and documentation.
+* **[learninc-c](https://github.com/bedrott/learning-c):** Low-level C programming, systems fundamentals, and POSIX practice based on K. N. King.
+
 
 # My Site and Portfolio
 🔗 **Portfolio / Site:** [bedrott.github.io](https://bedrott.github.io)
