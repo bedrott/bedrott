@@ -1,4 +1,5 @@
 <img width="1920" height="500" alt="034b62cdfce7-3900092754" src="https://github.com/user-attachments/assets/fbca0529-7ac7-4dd0-b7df-2c150d019dc1" />
+
 # about
 Systems enthusiast working on Linux configuration, hardware documentation, and environment automation. Currently learning C and building Linux From Scratch (LFS) to understand OS internals.
 
